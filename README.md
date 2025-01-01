@@ -17,3 +17,12 @@ This table renders the state diagram into an easier to code format. Uses both le
 ![transitionTable](https://github.com/user-attachments/assets/6d384e0b-0b1d-4d2e-9a1d-30440ed85534)
 
 
+
+# Instructions
+
+Add the scripts to the specified directory, then target them in the launch.vs.json like so:
+( some build path changes may be needed )
+![instructions](https://github.com/user-attachments/assets/70177e93-f9bd-45e9-b58c-55a54710169f)
+
+
+
