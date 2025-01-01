@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\theyk\\Desktop\\jewel\\cst-8152\\Jewel\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\theyk\\Desktop\\jewel\\cst-8152\\Jewel\\launch.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:launch.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\theyk\\Desktop\\jewel\\cst-8152\\Jewel\\Scanner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scanner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -63,6 +67,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "launch.vs.json",
+              "DocumentMoniker": "C:\\Users\\theyk\\Desktop\\jewel\\cst-8152\\Jewel\\launch.vs.json",
+              "RelativeDocumentMoniker": "launch.vs.json",
+              "ToolTip": "C:\\Users\\theyk\\Desktop\\jewel\\cst-8152\\Jewel\\launch.vs.json",
+              "RelativeToolTip": "launch.vs.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T19:12:18.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Scanner.h",
               "DocumentMoniker": "C:\\Users\\theyk\\Desktop\\jewel\\cst-8152\\Jewel\\Scanner.h",
               "RelativeDocumentMoniker": "Scanner.h",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Scanner.c",
               "DocumentMoniker": "C:\\Users\\theyk\\Desktop\\jewel\\cst-8152\\Jewel\\Scanner.c",
               "RelativeDocumentMoniker": "Scanner.c",
@@ -83,12 +100,11 @@
               "RelativeToolTip": "Scanner.c",
               "ViewState": "AQIAABgCAAAAAAAAAAAAACICAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-01T18:13:26.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T18:13:26.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Reader.h",
               "DocumentMoniker": "C:\\Users\\theyk\\Desktop\\jewel\\cst-8152\\Jewel\\Reader.h",
               "RelativeDocumentMoniker": "Reader.h",
@@ -96,12 +112,11 @@
               "RelativeToolTip": "Reader.h",
               "ViewState": "AQIAAF0AAAAAAAAAAAAAAH8AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-01T18:10:03.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T18:10:03.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Reader.c",
               "DocumentMoniker": "C:\\Users\\theyk\\Desktop\\jewel\\cst-8152\\Jewel\\Reader.c",
               "RelativeDocumentMoniker": "Reader.c",
@@ -109,12 +124,11 @@
               "RelativeToolTip": "Reader.c",
               "ViewState": "AQIAAEIAAAAAAAAAAAAAAI0AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-01T18:08:05.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T18:08:05.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Parser.h",
               "DocumentMoniker": "C:\\Users\\theyk\\Desktop\\jewel\\cst-8152\\Jewel\\Parser.h",
               "RelativeDocumentMoniker": "Parser.h",
@@ -122,12 +136,11 @@
               "RelativeToolTip": "Parser.h",
               "ViewState": "AQIAAEUAAAAAAAAAAAAAAF4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-01T18:07:30.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T18:07:30.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Parser.c",
               "DocumentMoniker": "C:\\Users\\theyk\\Desktop\\jewel\\cst-8152\\Jewel\\Parser.c",
               "RelativeDocumentMoniker": "Parser.c",
@@ -135,12 +148,11 @@
               "RelativeToolTip": "Parser.c",
               "ViewState": "AQIAAAgBAAAAAAAAAAAAAFMBAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-01T18:06:30.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T18:06:30.184Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MainScanner.c",
               "DocumentMoniker": "C:\\Users\\theyk\\Desktop\\jewel\\cst-8152\\Jewel\\MainScanner.c",
               "RelativeDocumentMoniker": "MainScanner.c",
@@ -148,12 +160,11 @@
               "RelativeToolTip": "MainScanner.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAK0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-01T18:05:30.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T18:05:30.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "MainReader.c",
               "DocumentMoniker": "C:\\Users\\theyk\\Desktop\\jewel\\cst-8152\\Jewel\\MainReader.c",
               "RelativeDocumentMoniker": "MainReader.c",
@@ -161,12 +172,11 @@
               "RelativeToolTip": "MainReader.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-01T18:03:16.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T18:03:16.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "MainParser.c",
               "DocumentMoniker": "C:\\Users\\theyk\\Desktop\\jewel\\cst-8152\\Jewel\\MainParser.c",
               "RelativeDocumentMoniker": "MainParser.c",
@@ -174,12 +184,11 @@
               "RelativeToolTip": "MainParser.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-01T18:01:49.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T18:01:49.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Compilers.h",
               "DocumentMoniker": "C:\\Users\\theyk\\Desktop\\jewel\\cst-8152\\Jewel\\Compilers.h",
               "RelativeDocumentMoniker": "Compilers.h",
@@ -187,12 +196,11 @@
               "RelativeToolTip": "Compilers.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-01T17:59:57.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T17:59:57.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Compilers.c",
               "DocumentMoniker": "C:\\Users\\theyk\\Desktop\\jewel\\cst-8152\\Jewel\\Compilers.c",
               "RelativeDocumentMoniker": "Compilers.c",
@@ -200,8 +208,7 @@
               "RelativeToolTip": "Compilers.c",
               "ViewState": "AQIAAF0AAAAAAAAAAAAAAGUAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-01T17:58:26.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T17:58:26.698Z"
             }
           ]
         }
